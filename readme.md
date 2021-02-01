@@ -2,5 +2,6 @@
 
 Using it to write with basic formatting is actually as fun as html...
 
-__not sure how fun that **really** is__
+_not sure how fun that_ **really** _is_ 
+
 
